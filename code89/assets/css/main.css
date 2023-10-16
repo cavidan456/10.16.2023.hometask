@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sec-one {
+  background-color: #249abe;
+  width: 100%;
+  height: 500px;
+}
+.sec-one .cnt {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.sec-one .cnt h1 {
+  font-size: 73px;
+}
+.sec-one .cnt #font1 {
+  font-size: 32px;
+  font-weight: 700;
+}
+.sec-one .cnt #font2 {
+  font-size: 26px;
+}
